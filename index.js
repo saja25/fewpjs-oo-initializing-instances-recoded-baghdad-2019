@@ -5,4 +5,6 @@ class Breakfast{
     this.drink=drink;
   }
 }
-class Lunch
+class Lunch{
+  
+}
