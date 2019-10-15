@@ -6,5 +6,5 @@ class Breakfast{
   }
 }
 class Lunch{
-  constructor(salad,) 
+  constructor(salad,soup,) 
 }
