@@ -1,4 +1,4 @@
 // Write your code here
 class Breakfast{
-  constructor(food ) 
+  constructor(food drink) 
 }
