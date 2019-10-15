@@ -12,4 +12,4 @@ class Lunch{
     this.drink=drink;
   }
 }
-class 
+class Dinner
